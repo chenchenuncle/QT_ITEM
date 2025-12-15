@@ -1,0 +1,14 @@
+debug/dialoghead.o
+debug/dialogtable.o
+debug/formdoc.o
+debug/main.o
+debug/mainwindow.o
+debug/ttable.o
+debug/widget_edit.o
+debug/qrc_qrc.o
+debug/moc_dialoghead.o
+debug/moc_dialogtable.o
+debug/moc_formdoc.o
+debug/moc_mainwindow.o
+debug/moc_ttable.o
+debug/moc_widget_edit.o

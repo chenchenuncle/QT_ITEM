@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/MDI.png</file>
+        <file>qrc/多窗口模式.png</file>
+        <file>qrc/级联展开.png</file>
+        <file>qrc/平铺展开.png</file>
+        <file>qrc/widget.png</file>
+        <file>qrc/表格图标.png</file>
+        <file>qrc/表格大小.png</file>
+        <file>qrc/设置表头.png</file>
+        <file>qrc/取消.png</file>
+        <file>qrc/确定.png</file>
+        <file>qrc/风景图.png</file>
+    </qresource>
+</RCC>

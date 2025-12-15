@@ -1,0 +1,14 @@
+release/dialoghead.o
+release/dialogtable.o
+release/formdoc.o
+release/main.o
+release/mainwindow.o
+release/ttable.o
+release/widget_edit.o
+release/qrc_qrc.o
+release/moc_dialoghead.o
+release/moc_dialogtable.o
+release/moc_formdoc.o
+release/moc_mainwindow.o
+release/moc_ttable.o
+release/moc_widget_edit.o
