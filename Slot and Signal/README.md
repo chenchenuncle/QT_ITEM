@@ -1,0 +1,2 @@
+#
+实现部分文档功能，用qt槽和信号机制，建立多样按钮与QAbstractTextDocumentLayout基类信号，实现可编辑文本文字
