@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/007.GIF</file>
+        <file>qrc/066.GIF</file>
+        <file>qrc/070.GIF</file>
+        <file>qrc/090.GIF</file>
+        <file>qrc/100.bmp</file>
+        <file>qrc/104.bmp</file>
+        <file>qrc/122.bmp</file>
+        <file>qrc/128.bmp</file>
+        <file>qrc/132.bmp</file>
+        <file>qrc/135.JPG</file>
+        <file>qrc/171.JPG</file>
+        <file>qrc/174.JPG</file>
+        <file>qrc/200.bmp</file>
+        <file>qrc/202.bmp</file>
+        <file>qrc/204.bmp</file>
+        <file>qrc/206.bmp</file>
+        <file>qrc/208.bmp</file>
+        <file>qrc/212.bmp</file>
+        <file>qrc/230.bmp</file>
+        <file>qrc/304.bmp</file>
+        <file>qrc/400.bmp</file>
+        <file>qrc/402.bmp</file>
+        <file>qrc/404.bmp</file>
+        <file>qrc/406.bmp</file>
+        <file>qrc/500.bmp</file>
+        <file>qrc/502.bmp</file>
+        <file>qrc/504.bmp</file>
+        <file>qrc/506.bmp</file>
+        <file>qrc/510.bmp</file>
+        <file>qrc/512.bmp</file>
+        <file>qrc/514.bmp</file>
+        <file>qrc/516.bmp</file>
+        <file>qrc/704.bmp</file>
+        <file>qrc/706.bmp</file>
+        <file>qrc/714.bmp</file>
+        <file>qrc/802.bmp</file>
+        <file>qrc/804.bmp</file>
+        <file>qrc/806.bmp</file>
+    </qresource>
+</RCC>
