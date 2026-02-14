@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ric/生成文件图标.png</file>
+        <file>ric/生成文件图标2.png</file>
+    </qresource>
+</RCC>
