@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/104.bmp</file>
+        <file>qrc/132.bmp</file>
+        <file>qrc/206.bmp</file>
+        <file>qrc/316.bmp</file>
+        <file>qrc/514.bmp</file>
+        <file>qrc/dsd.png</file>
+        <file>qrc/OIP-C (1).jpg</file>
+    </qresource>
+</RCC>
