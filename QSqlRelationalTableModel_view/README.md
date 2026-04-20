@@ -20,18 +20,5 @@
 - **委托**：QSqlRelationalDelegate
 
 ## 比较亮点技术
-## 随机ID生成
-// 生成12位随机学生ID
-QRandomGenerator i(QTime::currentTime().msecsSinceStartOfDay());
-id = i.bounded(1240000000000, 1249999999999);
-
-// 确保ID唯一
-while (true) {
-    QSqlQuery query(QSqlDatabase::database("stydy"));
-    query.prepare("SELECT EXISTS(SELECT 1 FROM studyinfo WHERE study_ID=:a)");
-    query.bindValue(":a", id);
-    if (!query.exec() || !query.next() || !query.value(0).toInt()) {
-        break;
-    }
-    id = i.bounded(1240000000000, 1249999999999);
-}
+## 随机唯一ID生成
+(https://github.com/chenchenuncle/QT_Study_Project/blame/f8ddb25c9de32985d48bf9e73b0451ae0c8f3527/QSqlRelationalTableModel_view/mainwindow.cpp#L13-L31)
